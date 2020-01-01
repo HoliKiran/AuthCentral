@@ -26,6 +26,8 @@ public class Author {
     @Setter
     private String email;
 
+    @Getter
+    @Setter
     private String phoneNo;
 
 }
